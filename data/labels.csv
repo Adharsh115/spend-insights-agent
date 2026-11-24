@@ -1,0 +1,290 @@
+row_id,category,is_recurring,is_unusual
+1,Income,0,0
+2,Rent,1,0
+3,Food & Dining,0,0
+4,Food & Dining,0,0
+5,Shopping,0,0
+6,Food & Dining,0,0
+7,Groceries,0,0
+8,Food & Dining,0,0
+9,Transport,0,0
+10,Health,1,0
+11,Food & Dining,0,0
+12,Food & Dining,0,0
+13,Food & Dining,0,0
+14,Transfers,0,0
+15,Transport,0,0
+16,Bills & Utilities,1,0
+17,Food & Dining,0,0
+18,Transport,0,0
+19,Transfers,0,0
+20,Entertainment & Subscriptions,1,0
+21,Groceries,0,0
+22,Food & Dining,0,0
+23,Transfers,0,0
+24,Bills & Utilities,1,0
+25,Transport,0,0
+26,Bills & Utilities,0,0
+27,Groceries,0,0
+28,Groceries,0,0
+29,Food & Dining,0,0
+30,Transport,0,0
+31,Entertainment & Subscriptions,1,0
+32,Food & Dining,0,0
+33,Groceries,0,0
+34,Transport,0,0
+35,Food & Dining,0,0
+36,Groceries,0,0
+37,Transfers,0,0
+38,Food & Dining,0,0
+39,Transport,0,0
+40,Groceries,0,0
+41,Transfers,0,0
+42,Groceries,0,0
+43,Transport,0,0
+44,Food & Dining,0,0
+45,Transport,0,0
+46,Transport,0,0
+47,Food & Dining,0,0
+48,Groceries,0,0
+49,Income,0,0
+50,Transport,0,0
+51,Food & Dining,0,0
+52,Food & Dining,0,0
+53,Rent,1,0
+54,Food & Dining,0,0
+55,Transport,0,0
+56,Transport,0,0
+57,Transport,0,0
+58,Health,1,0
+59,Food & Dining,0,0
+60,Food & Dining,0,0
+61,Groceries,0,0
+62,Transfers,0,0
+63,Bills & Utilities,1,0
+64,Food & Dining,0,0
+65,Transport,0,0
+66,Education,0,0
+67,Transport,0,0
+68,Entertainment & Subscriptions,1,0
+69,Groceries,0,0
+70,Food & Dining,0,0
+71,Food & Dining,0,0
+72,Travel,0,0
+73,Groceries,0,0
+74,Bills & Utilities,1,0
+75,Transport,0,0
+76,Transport,0,0
+77,Food & Dining,0,0
+78,Transport,0,0
+79,Entertainment & Subscriptions,1,0
+80,Groceries,0,0
+81,Bills & Utilities,0,0
+82,Food & Dining,0,1
+83,Food & Dining,0,0
+84,Food & Dining,0,0
+85,Shopping,0,0
+86,Transfers,0,0
+87,Food & Dining,0,0
+88,Groceries,0,0
+89,Income,0,0
+90,Food & Dining,0,0
+91,Transport,0,0
+92,Travel,0,0
+93,Rent,1,0
+94,Groceries,0,0
+95,Health,1,0
+96,Transport,0,0
+97,Shopping,0,0
+98,Food & Dining,0,0
+99,Cash,0,0
+100,Bills & Utilities,1,0
+101,Transport,0,0
+102,Groceries,0,0
+103,Entertainment & Subscriptions,1,0
+104,Food & Dining,0,0
+105,Food & Dining,0,0
+106,Food & Dining,0,0
+107,Food & Dining,0,0
+108,Shopping,0,0
+109,Shopping,0,0
+110,Bills & Utilities,1,0
+111,Groceries,0,0
+112,Transport,0,0
+113,Transfers,0,0
+114,Food & Dining,0,0
+115,Food & Dining,0,0
+116,Shopping,0,0
+117,Transfers,0,0
+118,Transfers,0,0
+119,Entertainment & Subscriptions,1,0
+120,Food & Dining,0,0
+121,Transport,0,0
+122,Bills & Utilities,0,0
+123,Transport,0,0
+124,Food & Dining,0,0
+125,Transport,0,0
+126,Shopping,0,0
+127,Groceries,0,0
+128,Groceries,0,0
+129,Transfers,0,0
+130,Transport,0,0
+131,Shopping,0,1
+132,Health,0,0
+133,Transfers,0,0
+134,Transport,0,0
+135,Transfers,0,0
+136,Food & Dining,0,0
+137,Income,0,0
+138,Rent,1,0
+139,Food & Dining,0,0
+140,Groceries,0,0
+141,Groceries,0,0
+142,Transport,0,0
+143,Shopping,0,0
+144,Transfers,0,0
+145,Transport,0,0
+146,Health,1,0
+147,Food & Dining,0,0
+148,Transfers,0,0
+149,Bills & Utilities,1,0
+150,Food & Dining,0,0
+151,Groceries,0,0
+152,Groceries,0,0
+153,Transport,0,0
+154,Groceries,0,0
+155,Groceries,0,0
+156,Shopping,0,0
+157,Food & Dining,0,0
+158,Food & Dining,0,0
+159,Groceries,0,0
+160,Transport,0,1
+161,Entertainment & Subscriptions,1,0
+162,Food & Dining,0,0
+163,Groceries,0,0
+164,Bills & Utilities,1,0
+165,Food & Dining,0,0
+166,Transport,0,0
+167,Transport,0,0
+168,Transport,0,0
+169,Bills & Utilities,0,0
+170,Food & Dining,0,0
+171,Food & Dining,0,0
+172,Food & Dining,0,0
+173,Transfers,0,0
+174,Entertainment & Subscriptions,1,0
+175,Food & Dining,0,0
+176,Food & Dining,0,0
+177,Transport,0,0
+178,Shopping,0,0
+179,Food & Dining,0,0
+180,Shopping,0,0
+181,Travel,0,0
+182,Groceries,0,0
+183,Transport,0,0
+184,Shopping,0,0
+185,Food & Dining,0,0
+186,Cash,0,0
+187,Food & Dining,0,0
+188,Income,0,0
+189,Transport,0,0
+190,Rent,1,0
+191,Transport,0,0
+192,Education,0,0
+193,Food & Dining,0,0
+194,Health,1,0
+195,Food & Dining,0,0
+196,Food & Dining,0,0
+197,Shopping,0,0
+198,Health,0,0
+199,Transfers,0,0
+200,Bills & Utilities,1,0
+201,Groceries,0,0
+202,Health,0,0
+203,Food & Dining,0,0
+204,Transport,0,0
+205,Food & Dining,0,0
+206,Groceries,0,0
+207,Food & Dining,0,0
+208,Cash,0,0
+209,Entertainment & Subscriptions,1,0
+210,Food & Dining,0,0
+211,Transport,0,0
+212,Bills & Utilities,1,0
+213,Food & Dining,0,0
+214,Transport,0,0
+215,Food & Dining,0,0
+216,Health,0,1
+217,Transport,0,0
+218,Transport,0,0
+219,Food & Dining,0,0
+220,Shopping,0,0
+221,Shopping,0,0
+222,Entertainment & Subscriptions,1,0
+223,Bills & Utilities,0,0
+224,Food & Dining,0,0
+225,Transport,0,0
+226,Transport,0,0
+227,Transport,0,0
+228,Transfers,0,0
+229,Food & Dining,0,0
+230,Transfers,0,0
+231,Transfers,0,0
+232,Food & Dining,0,0
+233,Groceries,0,0
+234,Food & Dining,0,0
+235,Groceries,0,0
+236,Groceries,0,0
+237,Groceries,0,0
+238,Transport,0,0
+239,Shopping,0,0
+240,Travel,0,0
+241,Shopping,0,0
+242,Income,0,0
+243,Food & Dining,0,0
+244,Food & Dining,0,0
+245,Food & Dining,0,0
+246,Food & Dining,0,0
+247,Transport,0,0
+248,Transfers,0,0
+249,Rent,1,0
+250,Groceries,0,0
+251,Transport,0,0
+252,Transport,0,0
+253,Shopping,0,0
+254,Food & Dining,0,0
+255,Food & Dining,0,0
+256,Groceries,0,0
+257,Shopping,0,0
+258,Transfers,0,0
+259,Food & Dining,0,0
+260,Food & Dining,0,0
+261,Groceries,0,0
+262,Health,1,0
+263,Food & Dining,0,0
+264,Bills & Utilities,1,0
+265,Groceries,0,0
+266,Groceries,0,1
+267,Groceries,0,0
+268,Shopping,0,0
+269,Entertainment & Subscriptions,1,0
+270,Transport,0,0
+271,Shopping,0,0
+272,Bills & Utilities,1,0
+273,Transport,0,0
+274,Transport,0,0
+275,Transfers,0,0
+276,Health,0,0
+277,Groceries,0,0
+278,Entertainment & Subscriptions,1,0
+279,Bills & Utilities,0,0
+280,Food & Dining,0,0
+281,Food & Dining,0,0
+282,Transport,0,0
+283,Transport,0,0
+284,Cash,0,0
+285,Transfers,0,0
+286,Food & Dining,0,0
+287,Food & Dining,0,0
+288,Food & Dining,0,0
+289,Shopping,0,0
