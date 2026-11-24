@@ -4,7 +4,9 @@ An LLM agent that answers plain-English questions about a bank statement.
 Ask *"How much did I spend on travel last quarter?"* and it writes and runs the SQL itself,
 then explains the answer in plain language.
 
-<!-- Add a screenshot or GIF of the app here: ![demo](docs/demo.gif) -->
+![Spending overview](docs/spending.png)
+
+<!-- Add a screenshot of a chat answer here: ![chat](docs/chat.png) -->
 
 ## What it does
 
